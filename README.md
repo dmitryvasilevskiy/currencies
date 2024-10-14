@@ -25,5 +25,5 @@
 http://127.0.0.1:8000/api/currencies
 ![img.png](img.png)
 
-http://127.0.0.1:8000/api/currencies/2024-09-02
+http://127.0.0.1:8000/api/currencies/2024-09-05
 ![img_1.png](img_1.png)
